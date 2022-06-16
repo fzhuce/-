@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title:私用 乘风 小众视频过滤规则
+! Title: 乘风 小众视频过滤规则
 ! Version: 202206131
 ! Expires: 1 day
 ! Homepage: https://bbs.kafan.cn/thread-1866845-1-1.html
@@ -13,9 +13,10 @@ iqiyi.com##+js(set, Object.prototype.isSupportAI, false)
 ||static.iqiyi.com/js/paoQitan/paoQitan.js
 ||security.iqiyi.com/static/cook/v1/cooksdk.js
 ||stc.iqiyipic.com/js/sdkpack/vippay.js
-||stc.iqiyipic.com/js/sdkpack/barrage
+||t7z.cupid.iqiyi.com/show$script,important
 ! ||static.iqiyi.com/js/player_v*/skin.pc.$script
 ! 要用弹幕注释下条规则
+!||stc.iqiyipic.com/js/sdkpack/barrage
 
 ! le.com
 gentags.net
