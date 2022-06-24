@@ -27,7 +27,7 @@ v.youku.com##.vip_info,#uerCenter,#youkubarrage-controller,li.fn-phonewatch
 
 www.bilibili.com##+js(set,Sentry.init,noopFunc)
 ||api.bilibili.com/x/click-interface/click/$xhr
-chat.bilibili.com
+! chat.bilibili.com
 ||hdslb.com/bfs/seed/jinkela/short/cols/iframe.html$subdocument
 ||bilibili.com/page-proxy/game-nav.html$subdocument
 ||www.bilibili.com^$doc,queryprune=~p
