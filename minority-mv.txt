@@ -13,10 +13,10 @@ iqiyi.com##+js(set, Object.prototype.isSupportAI, false)
 ||static.iqiyi.com/js/paoQitan/paoQitan.js
 ||security.iqiyi.com/static/cook/v1/cooksdk.js
 ||stc.iqiyipic.com/js/sdkpack/vippay.js
-||stc.iqiyipic.com/js/sdkpack/barrage
+! ||stc.iqiyipic.com/js/sdkpack/barrage
 ! ||static.iqiyi.com/js/player_v*/skin.pc.$script
 ! 要用弹幕注释下条规则
-!||t7z.cupid.iqiyi.com/show$script,important
+||t7z.cupid.iqiyi.com/show$script,important
 
 ! le.com
 gentags.net
