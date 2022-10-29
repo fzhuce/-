@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 自定义过滤规则
-! Version: 20221007
+! Version: 202210231
 ! Expires: 1 day
 ! Homepage: https://github.com/fzhuce/video-rules
 
