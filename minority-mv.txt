@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 乘风 小众视频过滤规则 自用
+! Title: 自用 乘风 小众视频过滤规则
 ! Version: 202210231
 ! Expires: 1 day
 ! Homepage: https://github.com/fzhuce/video-rules
