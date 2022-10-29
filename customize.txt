@@ -6,3 +6,9 @@
 
 ! 2022-10-29 https://www.biqukun.la
 www.biqukun.la##td > div
+
+! 2022-10-29 https://www.baidu.com
+www.baidu.com##.s-bottom-layer-content
+www.baidu.com##.s-isindex-wrap.s-top-left-new
+www.baidu.com##.s-isindex-wrap.s-top-right
+
