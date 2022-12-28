@@ -4,7 +4,6 @@
 ! Expires: 1 day
 ! Homepage: https://github.com/fzhuce/video-rules
 
-
 ! 2022-11-08 https://t.bilibili.com
 t.bilibili.com##.bili-dyn-ads
 
@@ -12,7 +11,6 @@ t.bilibili.com##.bili-dyn-ads
 www.baidu.com##.s-bottom-layer-content
 www.baidu.com##.s-isindex-wrap.s-top-left-new
 www.baidu.com##.s-isindex-wrap.s-top-right
-
 
 ! 2022-10-29 https://www.biqukun.la
 www.biqukun.la##td > div
